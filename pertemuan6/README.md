@@ -99,3 +99,6 @@ Saya Membuat halaman login sederhana dengan input field dan tombol menggunakan F
 - Saya belajar menampilkan gambar,UI menjadi lebih rapi dan mulai terlihat seperti aplikasi real
 
 ---
+
+### Kesimpulan 
+Dari seluruh praktikum, saya telah memahami dasar pembuatan UI di Flutter mulai dari penggunaan layout (Row, Column), widget pendukung, hingga menyusun tampilan aplikasi sederhana yang rapi dan menarik. Praktikum ini membantu saya membangun dasar yang kuat untuk membuat aplikasi mobile yang lebih kompleks.
