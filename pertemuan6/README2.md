@@ -77,36 +77,115 @@ Pada praktikum ini, saya telah belajar:
 
 ---
 
-### 5. Praktikum 3: Contoh Coding: Membuat Tampilan Login Sederhana <br>
+### 5. Praktikum 3: Navigasi dengan Named Route <br>
 
-<img width="1919" height="874" alt="Screenshot 2026-04-13 152812" src="https://github.com/user-attachments/assets/fd9c20e3-cb02-451c-bc51-b7b6faf0bf6a" />
+<img width="1917" height="875" alt="Screenshot 2026-04-17 151844" src="https://github.com/user-attachments/assets/b2db8cdb-f5a9-4f22-9ce8-02fbdfd69fc2" />
+
+<img width="1912" height="872" alt="Screenshot 2026-04-17 151855" src="https://github.com/user-attachments/assets/50b26159-80c5-40d2-b2f6-88c7db76b668" />
+
+<img width="1916" height="862" alt="Screenshot 2026-04-17 151912" src="https://github.com/user-attachments/assets/f3e218a3-75dc-4285-997e-1ebb8bb96c5d" />
 
 
 *Penjelasan:*  
-Membuat halaman login sederhana dengan input field dan tombol menggunakan Flutter.
+Pada praktikum ini, saya telah belajar:
+
+- menggunakan **named route**
+- membuat navigasi lebih rapi dan terstruktur
+- berpindah halaman tanpa menulis `MaterialPageRoute` berulang
+
+  Dan mencoba :
+- Menambahkan halaman baru (`/profil`)
+- Menambahkan tombol ke halaman tersebut
+- Menguubah teks di setiap halaman
+- Dan membuat 3 halaman berbeda dan navigasi saling terhubung
 
 ---
 
-### 6. Praktikum 5: Membangun Layout UI Sederhana (Real Case)
-![Screenshot](assets/pertemuan6.png)
+### 6. Praktikum 3.5: Named Route + Form Input + Kirim Data
+
+<img width="1908" height="875" alt="Screenshot 2026-04-17 154946" src="https://github.com/user-attachments/assets/692c467e-8011-48e3-8197-ad0ab543a1a6" />
+
+<img width="1908" height="883" alt="Screenshot 2026-04-17 154958" src="https://github.com/user-attachments/assets/d899760c-3938-4b46-ac37-b1a14eeb0fb3" />
 
 *Penjelasan:*  
-Mengimplementasikan layout UI berdasarkan studi kasus nyata seperti tampilan aplikasi wisata.
+Pada praktikum ini, saya telah belajar:
+
+- menggunakan **named route**
+- mengambil input dari user
+- mengirim data antar halaman
+- memahami alur aplikasi sederhana
+  
+  Dan mencoba :
+- Menambahkan input jurusan
+- Mengirim ke halaman detail
+- Dan tampilkan semua data
 
 ---
 
-### 7. Praktikum 6: Implementasi Text Section (Styling & Kerapian UI)
-![Screenshot](assets/pertemuan7.png)
+### 7. Praktikum 4: Menampilkan data dengan Listview
+
+<img width="1908" height="847" alt="Screenshot 2026-04-17 003928" src="https://github.com/user-attachments/assets/8ab332be-7f64-464f-a4f7-fd68bf8b3343" />
 
 *Penjelasan:*  
-Fokus pada pengaturan teks seperti ukuran font, warna, dan alignment agar tampilan lebih rapi.
+Pada praktikum ini, saya telah belajar:
 
+- memahami konsep **data list (daftar)**
+- menampilkan data menggunakan **ListView**
+- mengubah data menjadi tampilan (UI)
+- memahami hubungan **data → widget**
+
+   Dan mencoba :
+  
+- Menambahkan 5 data baru
+- Mengubah icon
+- Dan ambahkan subtitle
 ---
 
-### 8. Praktikum 7: Image Section & Layout Lebih Rapi
-![Screenshot](assets/pertemuan8.png)
+### 8. Praktikum 5: Listview + Navigasi (Mini App sederhana)
+
+<img width="1908" height="884" alt="Screenshot 2026-04-17 010537" src="https://github.com/user-attachments/assets/311de680-808d-4245-ae5c-eb76e1534ae3" />
 
 *Penjelasan:*  
-Menambahkan gambar ke dalam aplikasi dan mengatur layout agar lebih menarik dan responsif.
+Pada praktikum ini, saya telah belajar:
 
+- menampilkan data dalam ListView
+- membuat item bisa diklik
+- berpindah halaman (navigasi)
+- mengirim data ke halaman detail
+- membuat mini aplikasi sederhana
+
+Dan mencoba :
+  
+- Menambahkan subtitle
+- Menambahkan icon berbeda
+- Menambahkan 10 data baru
+- Dan Menambahkan deskripsi,icon,layout lebih rapi di detail page
 ---
+
+### 8. Praktikum 6: Mini project: Aplikasi wisata (Listview + Model + Gambar + Detail)
+
+<img width="1919" height="877" alt="5" src="https://github.com/user-attachments/assets/032ca2de-0674-48b1-9014-beb4deb2c76b" />
+
+<img width="1907" height="872" alt="5 1" src="https://github.com/user-attachments/assets/e1d52f8e-b6fd-4a90-a265-670fc2c65c1f" />
+
+*Penjelasan:*  
+Pada praktikum ini, saya telah belajar:
+
+- menggunakan **model (class)**
+- menampilkan data kompleks (nama, gambar, deskripsi)
+- menggunakan **ListView**
+- navigasi ke halaman detail
+- membuat UI lebih menarik
+
+Dan mencoba membuat seperti aplikasi nyata 1 data berisi :
+  
+- nama tempat
+- gambar
+- deskripsi
+---
+
+### Kesimpulan 
+
+Dari praktikum ini, saya belajar membuat aplikasi Flutter mulai dari navigasi, form input, hingga menampilkan data dengan ListView. Saya juga memahami cara mengirim data antar halaman dan membuat tampilan lebih rapi. Secara keseluruhan, saya sudah bisa membuat aplikasi sederhana yang interaktif dan terstruktur.
+
+
